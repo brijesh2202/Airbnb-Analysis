@@ -27,8 +27,6 @@ with st.sidebar:
 
 if select == "Home":
 
-    #image1= Image.open("C:/Users/vignesh/Desktop/New folder/Airbnb image.jpg")
-    #st.image(image1)
 
     st.header("About Airbnb")
     st.write("")
